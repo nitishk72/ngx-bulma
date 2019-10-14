@@ -1,27 +1,35 @@
-# NgxBulma
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
+# ngx2-bulma
 
-## Development server
+Angular Library with Bulma CSS
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![](https://github.com/santoshyadav198613/ngx-bulma/workflows/Node%20CI/badge.svg)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
-## Code scaffolding
+## Documentation
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Check out our website: [ngx2-bulma](https://ngx2-bulma.netlify.com/).
 
-## Build
+## Contributing
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+ngx2-bulma is a community-driven project. Read our [contributing guidelines](./CONTRIBUTING.md) on how to get involved.
 
-## Running unit tests
+## Contributors ✨
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-## Running end-to-end tests
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/haroon786"><img src="https://avatars0.githubusercontent.com/u/20164301?v=4" width="100px;" alt="HaroonJ"/><br /><sub><b>HaroonJ</b></sub></a><br /><a href="https://github.com/santoshyadav198613/ngx-bulma/commits?author=haroon786" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/ankitsaini345"><img src="https://avatars2.githubusercontent.com/u/37847177?v=4" width="100px;" alt="Ankit Saini"/><br /><sub><b>Ankit Saini</b></sub></a><br /><a href="https://github.com/santoshyadav198613/ngx-bulma/commits?author=ankitsaini345" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.santoshyadav.dev"><img src="https://avatars3.githubusercontent.com/u/11923975?v=4" width="100px;" alt="Santosh Yadav"/><br /><sub><b>Santosh Yadav</b></sub></a><br /><a href="https://github.com/santoshyadav198613/ngx-bulma/commits?author=santoshyadav198613" title="Code">💻</a></td>
+  </tr>
+</table>
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
-## Further help
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
